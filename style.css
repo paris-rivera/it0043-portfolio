@@ -1,0 +1,100 @@
+body {
+    font-family: Arial;
+    background-color: #eeeeee;
+    margin: 0;
+}
+
+header {
+    background-color: #16325B;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    border-bottom: 2px solid #16325B;
+}
+
+nav a {
+    color: #16325B;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    width: 900px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+section {
+    padding: 20px;
+    border-bottom: 2px solid #16325B;
+}
+
+h2 {
+    color: #16325B;
+}
+
+.profile-image {
+    width: 150px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.quotation {
+    background-color: lightblue;
+    text-align: center;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightblue;
+}
+
+th, td {
+    border: 2px solid #16325B;
+    padding: 10px;
+    text-align: center;
+}
+
+.skill-item {
+    border: 2px solid #16325B;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.skill-item img {
+    width: 80px;
+    height: 80px;
+}
+
+.skill-item h3 {
+    color: #16325B;
+}
+
+footer {
+    background-color: #16325B;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
